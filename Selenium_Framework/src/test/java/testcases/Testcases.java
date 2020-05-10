@@ -70,7 +70,7 @@ public Testcases() {
 	// bussobj.System.setProperty("webdriver.chrome.driver", "C://SAUSTHAV//Software//chromedriver//chromedriver.exe");
 	 System.setProperty("webdriver.gecko.driver", "C://Sausthav//Software//gecko0.26//geckodriver.exe");
 	 driver =new FirefoxDriver();
-	 driver.get("https://mail.notes.na.collabserv.com/verse");
+	 driver.get("https://mail.com");
 	 driver.manage().window().maximize();
   
   }
